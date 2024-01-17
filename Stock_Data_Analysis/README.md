@@ -1,4 +1,20 @@
-The Final Assignment for the Python for Data Science Module
-Final_assignment.ipynb contains the main code outputs for the assignments.
+# Stock Data Extraction and Visualization Project in Python (RESTAPI and Webscraping)
 
-The other files are experimentations with the yfinance API
+A python project for extracting and visualizing stock data in python using the `yfinance` API, `pandas` table webscraping, and `plotly` library.
+
+## Libraries, Modules, and API
+- Requests
+- BeautifulSoup
+- Pandas
+- yfinance
+- nbformat
+- Plotly
+
+
+## Learning Points
+1. Python programming
+2. Markdown usage
+3. BeautifulSoup/Plotly/Pandas usage
+4. Webscraping
+5. Data cleaning
+6. Git
